@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 AI Resume Screening System (BERT)
 
 > Real-time BERT-based resume classification across **24 job categories** with **92% accuracy** and an interactive Streamlit UI.
@@ -186,3 +187,6 @@ Same format — only the `resume` column is required; `label` is optional.
 ## 📄 License
 
 MIT License — see `LICENSE` for details.
+=======
+# AI_Resume_Screening
+>>>>>>> 930d9079252f1daf0eaafcb8671ba4ab549d76d1
